@@ -3,4 +3,4 @@ TinDog is a social app designed to connect dog owners with other friendly dogs a
 
 Note: This is not a real app available to download. Only a fun idea for a practice project. 
 
-Live Demo: 
+Live Demo: https://philsquares.github.io/TinDog/ 
